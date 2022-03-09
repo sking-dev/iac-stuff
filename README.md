@@ -1,2 +1,3 @@
-# iac-stuff
-This repo contains a potpourri of IaC-related resources.
+# IaC Stuff
+
+This repo contains a veritable potpourri of IaC-related resources!
